@@ -79,4 +79,3 @@ By default, the client runs on `http://localhost:3000`.
 
 - Make sure MongoDB is running locally or provide a valid remote URI in the `.env` file.
 - The server must be running for the client (admin panel) to work properly if they communicate directly.
-- The deployed version uses [Vercel](https://vercel.com) for the client. The backend should be deployed separately (e.g., on Render, Railway, or any Node.js-supporting host).
