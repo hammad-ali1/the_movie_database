@@ -1,5 +1,5 @@
 # the_movie_database
-This repository is a clone of [TMDB](https://www.themoviedb.org) site. It uses the free TMDB api to fetch latest movies. The deployed site is at [this](https://tmdbv2.vercel.app) url. The site is deployed on vercel. The project was made using express with ejs for server side rendering. An admin panel is also deployed which was written using ReactJS. The project was an assignment for my university course on web technologies. 
+This repository is a clone of [TMDB](https://www.themoviedb.org) site. It uses the free TMDB api to fetch latest movies. The project was made using express with ejs for server side rendering. An admin panel is also deployed which was written using ReactJS.
 
 
 ## 📁 Project Structure
